@@ -1,5 +1,5 @@
 # __**Resume (Resumo)**__
-| 
+| Uma lista de tarefas para um teste de Jquere, Javascript, HTML e CSS 
 
 ## __**Technologies Used and Important Links (Tecnologias usadas e links importantes)**__
 
